@@ -1,3 +1,4 @@
+SFSTRY0001009
 terraform {
   required_providers {
     aws = {
