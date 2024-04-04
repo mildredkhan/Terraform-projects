@@ -1,4 +1,4 @@
-SFSTRY0001009
+SFSTRY0001009,SFSTRY0001010
 terraform {
   required_providers {
     aws = {
